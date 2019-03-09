@@ -19,5 +19,5 @@ h2 {
 
 ul#tasks li.completed {
   background-color: #ccc;
-  text-decoration-line: underline;
+  text-decoration: underline;
 }
