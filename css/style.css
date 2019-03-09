@@ -20,6 +20,4 @@ h2 {
 #tasks li.completed {
   background-color: #cccccc;
   text-decoration: underline;
-  height: 50px;
-  width: 10px;
 }
